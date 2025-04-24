@@ -35,7 +35,7 @@
 
 ## 📫 Como me encontrar
 
-- 📬 **yanthedev@gmail.com
+- 📬 yanthedev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yan-ferreira/)
 - 🧠 Sempre aprendendo e compartilhando conhecimento
 
