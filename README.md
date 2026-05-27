@@ -41,8 +41,9 @@
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yanthedev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanthedev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yanthedev&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanthedev&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
