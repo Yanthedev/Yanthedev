@@ -1,40 +1,52 @@
 <h1 align="center">Fala dev! Eu sou o Yan 👋</h1>
 
 <p align="center">
-  🐍 Estudando Python e tecnologias voltadas para Dados <br>
-  📊 Construindo minha jornada em Data Analytics, Data Science e Engenharia de Dados <br>
-  🚀 Focado em análise de dados, estatística, automação e aprendizado contínuo <br>
+  💻 Estudando Desenvolvimento Full Stack <br>
+  🌐 Construindo aplicações modernas para Web <br>
+  🚀 Focado em aprender, criar projetos e evoluir todos os dias como desenvolvedor <br>
 </p>
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Python para análise de dados
-- Estatística e Probabilidade
-- Estruturas de dados
-- Data Analytics
-- Machine Learning
-- Visualização de dados
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Node.js
+- Git e GitHub
+- Desenvolvimento Full Stack
 
 ---
 
 ## 📂 Projetos em destaque
 
 <p align="center">
-  📈 Em construção... desenvolvendo projetos voltados para análise de dados e ciência de dados 🚀
+  🚧 Em construção... desenvolvendo projetos para fortalecer minhas habilidades em Front-end e Back-end 🚀
 </p>
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como Desenvolvedor Full Stack
+- Construir aplicações completas do Front-end ao Back-end
+- Aprender boas práticas de desenvolvimento
+- Criar projetos que resolvam problemas reais
+- Conquistar minha primeira oportunidade na área
 
 ---
 
@@ -42,8 +54,7 @@
 
 - 📬 yanthedev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yan-ferreira/)
-- 🧠 Sempre aprendendo algo novo sobre dados e tecnologia
 
 ---
 
-> ✨ *"Transformando dados em conhecimento, um projeto por vez."*
+> ✨ *"Cada linha de código é mais um passo na jornada."*
